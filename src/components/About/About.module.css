@@ -1,0 +1,6 @@
+.headerContainer {
+    display: flex;
+    justify-content: flex-end;
+    height: 80px;
+    background-color: #38c7dc;
+}

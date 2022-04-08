@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+    height: 100vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.yellowBlock {
+    z-index: -1;
+    background-color: #ffb400;
+    position: fixed;
+    height: 200%;
+    width: 100%;
+    transform: rotate(-15deg);
+    left: -83%;
+    top: -50%;
+}
